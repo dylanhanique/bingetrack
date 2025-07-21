@@ -1,6 +1,9 @@
 # binge-track
 
-This template should help get you started developing with Vue 3 in Vite.
+BingeTrack is a Vue app that works with The Movie Database API. 
+Browse and discover movies, check or add ratings and reviews, create your watchlist and your favorite movies list.
+
+This project was created for fun and as practice with Vue 3. It's still a work in progress and may contain bugs, flaws, or security vulnerabilities.
 
 ## Recommended IDE Setup
 
