@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const apiClient = axios.create({
-  baseURL: import.meta.env.VITE_TMDB_API_BASE_URL,
+  baseURL: "https://api.themoviedb.org/3/",
   headers: {
     accept: 'application/json',
     'content-type': 'application/json',
