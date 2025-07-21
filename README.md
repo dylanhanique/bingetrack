@@ -11,9 +11,13 @@ This template should help get you started developing with Vue 3 in Vite.
 See [Vite Configuration Reference](https://vite.dev/config/).
 
 ## Project Setup
-
+  1. install project packages and dependencies
 ```sh
 npm install
+```
+  2. Create .env file and enter your TMDB API key (read-only)
+```sh
+VITE_TMDB_API_KEY = 'API KEY'
 ```
 
 ### Compile and Hot-Reload for Development
